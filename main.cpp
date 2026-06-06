@@ -9,7 +9,6 @@ class Pecha {
         }
 };
 
-
 class beji{
         public:
         string beji;
@@ -18,7 +17,15 @@ class beji{
         }
 };
 
+
 int main () {
-    cout << "Hello World!" << endl;
-    return 0;
+    cout << "Hello Cutu Cat!" << endl;
+    return 1;
 }
+
+
+/*
+1. Local git add commit
+2. connecting to github and pushing to github.
+
+*/
